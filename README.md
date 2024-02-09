@@ -1,6 +1,6 @@
 <h1> Sass-scss-project </h1>
 
-<h1> Used Languages </h1>
+<h1> Used Language </h1>
 
 HTML5
 

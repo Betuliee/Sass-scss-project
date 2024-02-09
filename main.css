@@ -509,10 +509,41 @@ td {
   color: #586069;
   font-size: 14px;
 }
+.Main-projects-links .link-1:hover {
+  border-bottom: 1px solid #00f;
+  transform: scale(1);
+  transition: 1s;
+}
+.Main-projects-links .link-2:hover {
+  border-bottom: 1px solid #00f;
+  transform: scale(1.1);
+  transition: 1s;
+}
+.Main-projects-links .link-3:hover {
+  border-bottom: 1px solid #00f;
+  transform: scale(1.1);
+  transition: 1s;
+}
+.Main-projects-links .link-4:hover {
+  border-bottom: 1px solid #00f;
+  transform: scale(1.1);
+  transition: 1s;
+}
+.Main-projects-links .link-5:hover {
+  border-bottom: 1px solid #00f;
+  transform: scale(1.1);
+  transition: 1s;
+}
+.Main-projects-links .link-6:hover {
+  border-bottom: 1px solid #00f;
+  transform: scale(1.1);
+  transition: 1s;
+}
 .Main-projects .Section {
   margin-top: 30px;
   display: flex;
   justify-content: space-between;
+  width: 100%;
 }
 .Main-projects .Section a {
   font-size: 12px;
